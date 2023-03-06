@@ -13,7 +13,7 @@ In our version of Mafia that we've played we have 4 different groups:
 - Mafia (the ones who could kill someone)
 - Police (they have ability to check player if it is mafia or not)
 - Doctor (has ability to heal someone if previously is shoot by the mafia)
-- Ordinary people (they don'e have any abilities, they can only vote at the end of the day)   
+- Ordinary people (they don't have any abilities, they can only vote at the end of the day)   
 
 The storyteller must lead the game. The game starts at night when the mafia makes its first murder. The next day the storyteller breaks the news and the players start discussing to find out who the possible mobster is and vote him out of the game. After the vote, the city goes to sleep, and the mobsters wake up again and shoot at a player, then the police wakes up and can show one of the players (the storyteller is only obliged to confirm to them if he is really a mafia or not) and the doctor can heal himself or to heal someone else. The game ends when all the mobsters are voted out (then the town wins) or when the police and the doctor are voted out (then the mafia wins).   
 
