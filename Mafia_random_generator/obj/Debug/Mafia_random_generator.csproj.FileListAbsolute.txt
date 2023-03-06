@@ -1,0 +1,20 @@
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\bin\Debug\Mafia_random_generator.exe.config
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\bin\Debug\Mafia_random_generator.exe
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\bin\Debug\Mafia_random_generator.pdb
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.csprojAssemblyReference.cache
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.Form1.resources
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.Properties.Resources.resources
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.csproj.GenerateResource.cache
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.csproj.CoreCompileInputs.cache
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.exe
+C:\Users\Tashkoskim\source\repos\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.pdb
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\bin\Debug\Mafia_random_generator.exe.config
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\bin\Debug\Mafia_random_generator.exe
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\bin\Debug\Mafia_random_generator.pdb
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.Form1.resources
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.Properties.Resources.resources
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.csproj.GenerateResource.cache
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.csproj.CoreCompileInputs.cache
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.exe
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.pdb
+C:\Users\Tashkoskim\Documents\Visual Studio 2019\Projects\Mafia_random_generator\Mafia_random_generator\obj\Debug\Mafia_random_generator.csproj.AssemblyReference.cache

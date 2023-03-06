@@ -1,0 +1,15 @@
+-------------------------------------
+Da mozhi edno pole za naratorot da si stava zabeleshki
+
+timeri za davanje zbor i za partija da merat vreme
+-> vremeto da se dodeluva vo tekot na igrata od strana na naratorot i da go startuva tajmerot
+
+da mozhi da se minimiziraat t.e. krijat raspredelenite ulogi od strana na naratorot
+
+forma za glasanje da ima, da mozhi za sekogo da se vnesat po kolku glasovi ima za da ne pamti naratorot
+
+posledna sostojba da se snima#
+-------------------------------------
+Da moze da gi izvestuva igracite za svojata uloga (najprosto po mail, mozi i sms).
+
+Edna ideja e aplikacijata celosno da ja zameni ulogata na komentatorot. Aplikacijata na pr. moze da bidi web, da se vnesat site igraci, avtomatski da se generiraat ulogite (bez da znae nikoj) i sekoj da ima pristap samo do svojot del. Odnosno Mafijasite kje znaat samo koj drug e mafija. Da ima vreme koe kje im teci za diskusija. Koga vremeto kej isteci da mora da glasaat. Ako pr nekoj ne glasa, da bide toj izglasan ili da se zemi kako pobeda za mafijata.
