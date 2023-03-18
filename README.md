@@ -22,7 +22,7 @@ The storyteller must lead the game. The game starts at night when the mafia make
 
 
 ## Documentation
-I have wrote a manual on Macedonian about the main functionality of the tool. Also there are a lot of screenshot about the different messages that pop up during the game.  
+I have wrote a manual on Macedonian about the main functionality of the tool. Also there are a lot of screenshots about the different messages that pop up during the game.  
 - [PDF_Manual](https://github.com/tashkoskim/Mafia_Random_Generator/blob/main/Mafia_random_generator/Manual/%D0%9C%D0%B0%D1%84%D0%B8%D1%98%D0%B0%20RANDOM%20%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80.pdf)
 
 
